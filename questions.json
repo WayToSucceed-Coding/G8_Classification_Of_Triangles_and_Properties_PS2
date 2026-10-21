@@ -1,0 +1,320 @@
+{
+  "heading": "G8_Properties Of Triangles",
+  "topics": [
+    {
+      "heading": "Properties Of Triangles",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "<img  src = './assests/images/question/6.png' width = '30%' ><br>x = ______°"
+    ],
+    "input": [""],
+    "answer": ["40"]
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "<img  src = './assests/images/question/7.png' width = '30%' ><br>x = ______°"
+    ],
+    "input": [""],
+    "answer": ["50"]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Riya: \"A triangle has angles 70°, 60°, and 50°, so it is a valid triangle.\"<br>",
+      "Arjun: \"It cannot be a triangle because the angles do not add up to 180°.\"<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      { "text": "Riya" },
+      { "text": "Arjun" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "<img  src = './assests/images/question/8.png' width = '30%' ><br>x = ______°"
+    ],
+    "input": [""],
+    "answer": ["70"]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "The exterior angle of a triangle is (4x − 5)°.<br>",
+      "The two remote interior angles are 55° and 40°.<br>",
+      "x = ______°"
+    ],
+    "input": [""],
+    "answer": ["25"]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Ethan is given the angles 70°, 60°, and 50°. Can these angles form a triangle?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" },
+      { "text": "Cannot be determined" },
+      { "text": "Only if all sides are equal" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A triangular playground has angles measuring 40° and 50°. Liam says it is a right triangle. Is he correct? If not, what type of triangle is it?"
+    ],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No, equilateral triangle" },
+      { "text": "No, Acute triangle" },
+      { "text": "No, Obtuse triangle" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A triangle has two angles measuring 35° and 75°. What type of triangle is it?"
+    ],
+    "options": [
+      { "text": "Right triangle" },
+      { "text": "Acute triangle" },
+      { "text": "Obtuse triangle" },
+      { "text": "Isosceles triangle" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A right triangle has legs measuring 8 cm and 15 cm.<br>",
+      "What is the length of the hypotenuse?<br> ______ cm"
+    ],
+    "input": [""],
+    "answer": ["17"]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A right triangle has a hypotenuse of 17 cm and one leg measuring 8 cm.<br>",
+      "What is the length of the other leg?<br> ______ cm"
+    ],
+    "input": [""],
+    "answer": ["15"]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Pythagoras' theorem can be used to find the length of a missing side in any right-angled triangle."
+    ],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "If the side lengths of a triangle satisfy a² + b² = c², then the triangle is right-angled."
+    ],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A 25 m ladder is placed 7 m away from a wall.<br>",
+      "How high up the wall does the ladder reach?<br> ______m"
+    ],
+    "input": [""],
+    "answer": ["24"]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A ladder reaches 24 m up a wall.<br>",
+      "Its base is 7 m from the wall.<br>",
+      "How long is the ladder?<br> ______m"
+    ],
+    "input": [""],
+    "answer": ["25"]
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A 17 m ladder reaches 15 m up a wall.<br>",
+      "How far is the foot of the ladder from the wall?<br> ______m"
+    ],
+    "input": [""],
+    "answer": ["8"]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A rectangular playground is 15 m long and 8 m wide.<br>",
+      "A path is built from one corner of the playground to the opposite corner.<br>",
+      "How long is the path?<br> ______m"
+    ],
+    "input": [""],
+    "answer": ["17"]
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "A computer monitor is 16 cm wide and 12 cm high.<br>",
+      "What is the length of its diagonal?<br> ______ cm"
+    ],
+    "input": [""],
+    "answer": ["20"]
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "Emily: \"The sides 7 cm, 24 cm and 25 cm form a right triangle.\"<br>",
+      "Liam: \"They do not.\"<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      { "text": "Emily" },
+      { "text": "Liam" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "Kabir: \"The sides 10 cm, 24 cm and 26 cm form a right triangle because they satisfy Pythagoras' theorem.\"<br>",
+      "Meera: \"No, they do not.\"<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      { "text": "Kabir" },
+      { "text": "Meera" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "Which of the following sets of side lengths can form a triangle?"
+    ],
+    "options": [
+      { "text": "A. &nbsp; &nbsp; 4 cm, 5 cm, 10 cm" },
+      { "text": "B. &nbsp; &nbsp; 7 cm, 8 cm, 9 cm" },
+      { "text": "C. &nbsp; &nbsp; Both A and B" },
+      { "text": "D. &nbsp; &nbsp; Neither A nor B" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 21,
+    "question": [
+      "The side lengths are 9 cm, 11 cm, and 18 cm.<br>",
+      "They ________ form a triangle."
+    ],
+    "options": [
+      { "text": "can" },
+      { "text": "cannot" },
+      { "text": "cannot be determined" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 22,
+    "question": [
+      "The side lengths 6 cm, 7 cm, and 14 cm can form a triangle."
+    ],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 23,
+    "question": [
+      "Emma: \"The side lengths 8 cm, 8 cm, and 12 cm can form a triangle.\"<br>",
+      "Lucas: \"No, they cannot.\"<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      { "text": "Emma" },
+      { "text": "Lucas" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 24,
+    "question": [
+      "Olivia: \"The side lengths 5 cm, 6 cm, and 12 cm can form a triangle.\"<br>",
+      "Noah: \"They cannot form a triangle.\"<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      { "text": "Olivia" },
+      { "text": "Noah" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 25,
+    "question": [
+      "Two sides of a triangle are 8 cm and 11 cm.<br>",
+      "Which of the following can be the third side?"
+    ],
+    "options": [
+      { "text": "2 cm" },
+      { "text": "5 cm" },
+      { "text": "10 cm" },
+      { "text": "20 cm" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 26,
+    "question": [
+      "Two sides of a triangle are 7 cm and 10 cm.<br>",
+      "Which of the following cannot be the third side?"
+    ],
+    "options": [
+      { "text": "6 cm" },
+      { "text": "12 cm" },
+      { "text": "17 cm" },
+      { "text": "19 cm" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 27,
+    "question": [
+      "Two sides of a triangle measure 12 cm and 15 cm.<br>",
+      "Which of the following can be the third side?"
+    ],
+    "options": [
+      { "text": "2 cm" },
+      { "text": "3 cm" },
+      { "text": "18 cm" },
+      { "text": "30 cm" }
+    ],
+    "answer": 2
+  }
+
+
+
+
+      ]
+    }
+  ]
+}
